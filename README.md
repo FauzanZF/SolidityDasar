@@ -1,3 +1,2 @@
 tentang syntax dasar solidity
 
-.
