@@ -1,3 +1,3 @@
 tentang syntax dasar solidity
 
-a
+3
