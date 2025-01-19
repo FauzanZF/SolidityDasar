@@ -1,4 +1,3 @@
 tentang syntax dasar solidity
 
-6
-
+7
