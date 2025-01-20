@@ -1,2 +1,2 @@
-tentang syntax dasar solidity
+tentang syntax dasar solidity.
 
