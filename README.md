@@ -1,4 +1,4 @@
-lllllll.ammmmmmmm,,........aaaaaaaa.sssannnnnnn
+llllllll.ammmmmmmm,,........aaaaaaaa.sssannnnnnn
 naaaaaaa
 gggggggce...
 ed,..;
